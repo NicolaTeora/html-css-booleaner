@@ -11,7 +11,7 @@ body{
 
 header{
     margin-bottom: 20px;
-    width: 1000px;
+    width: 850px;
 }
 
 h1{
@@ -23,8 +23,18 @@ h1{
     color: rgb(165, 153, 153);
 }
 
+.photo-caption{
+    margin: 0;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
 .text-mark{
     background-color: yellow;
+}
+
+ul{
+    padding-left: 20px;
 }
 
 /* dettagli tabbella */
