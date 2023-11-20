@@ -1,0 +1,10 @@
+.start-page{
+    height: 200px;
+    width: auto;
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+}
+img{
+    width: 25%;
+    height: 60%;
+}
