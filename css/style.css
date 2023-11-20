@@ -27,3 +27,20 @@ h1{
     background-color: yellow;
 }
 
+/* dettagli tabbella */
+tr{
+    height: 50px;
+    width: auto;
+}
+
+td{
+    width: 33%;
+}
+
+#title-row{
+    background-color: rgb(85, 124, 207);
+}
+
+.importan-row{
+    background-color: aqua;
+}
