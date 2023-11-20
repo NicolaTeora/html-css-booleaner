@@ -2,7 +2,7 @@ body{
     margin: 0;
     
 }
-.start-page{
+.frist-part{
     height: 150px;
     width: auto;
     background-image: url(../img/pattern.png);
@@ -11,6 +11,7 @@ body{
 
 header{
     margin-bottom: 20px;
+    width: 1000px;
 }
 
 h1{
@@ -18,9 +19,11 @@ h1{
 }
 
 #author{
+    width: 200px;
     color: rgb(165, 153, 153);
 }
 
 .text-mark{
     background-color: yellow;
 }
+
