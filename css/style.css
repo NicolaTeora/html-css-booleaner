@@ -3,8 +3,12 @@ body{
     
 }
 #container{
-    margin: 10px;
+    margin: auto;
     width: 1100px;
+    /* bonus */
+    padding-left: 50px;
+    padding-right: 50px;
+    
 }
 
 /* logo iniziale */
