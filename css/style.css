@@ -9,10 +9,18 @@ body{
     background-color: rgb(19, 192, 245);
 }
 
+header{
+    margin-bottom: 20px;
+}
+
 h1{
     margin-bottom: 0;
 }
 
 #author{
-    width: 200px;
+    color: rgb(165, 153, 153);
+}
+
+.text-mark{
+    background-color: yellow;
 }
